@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mapbox</string>
+    <string name="access_token">pk.eyJ1IjoiZ292eXNodGVjaG5vbG9naWVzIiwiYSI6ImNsYXNyNGJybTAyMDMzcHZ6dTZuenVkc2cifQ.kmgzxjVXli1vNc29o4T1ww</string>
+    <string name="current_night_mode" translatable="false">current_night_mode</string>
+    <string name="offline_version_key" translatable="false">offline_preference_key</string>
+
+
+</resources>
